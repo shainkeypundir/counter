@@ -1,0 +1,32 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f1f5f8;
+}
+
+.container{
+    font-size: 30px;
+    /* background: #bdb32a; */
+    padding: 10px;
+    border-radius: 10px;
+}
+
+span{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.button-container{
+    margin-bottom: 20px;
+}
+
+button{
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 2px;
+}
